@@ -1,0 +1,27 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/cpp",
+    "features": {
+        "ghcr.io/devcontainers/features/dotnet": "latest",
+        "ghcr.io/devcontainers/features/powershell": "latest",
+        "ghcr.io/devcontainers/features/github-cli": "latest",
+        "ghcr.io/devcontainers/features/azure-cli": "latest",
+        "ghcr.io/devcontainers/features/git": "latest",
+        "ghcr.io/devcontainers/features/common-utils": "latest"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-dotnettools.csdevkit",
+                "ms-dotnettools.csharp",
+                "github.copilot",
+                "github.copilot-chat",
+                "GitHub.vscode-pull-request-github",
+                "GitHub.remotehub",
+                "GitHub.vscode-github-actions",
+                "GitHub.codespaces",
+                "ms-vscode.vscode-github-issue-notebooks",
+                "ms-vscode.cpptools"
+            ]
+        }
+    }
+}
