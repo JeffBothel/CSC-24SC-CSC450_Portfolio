@@ -1,3 +1,9 @@
+////////////////////////////////////////////////////////////////////////
+/// CSU - 24SC - CSC450: Programming III - Portfolio Project - C++  ///
+/// Author: Jeffrey D. Bothel                                        ///
+/// Date: 2024-07-07                                                 ///
+////////////////////////////////////////////////////////////////////////
+
 #include <iostream>
 #include <string>
 #include <thread>
